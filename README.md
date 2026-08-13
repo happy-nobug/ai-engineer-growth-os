@@ -4,7 +4,7 @@
 
 普通用户不需要下载代码、不需要安装软件，也不需要懂 GitHub。打开网站即可使用。
 
-> **在线使用地址：** 请在成功的 `Deploy to GitHub Pages` Action 中复制网址，并将它填写在这里。
+> **在线使用地址：** https://happy-nobug.github.io/ai-engineer-growth-os/。
 
 ## 30 秒开始使用
 
