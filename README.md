@@ -10,11 +10,7 @@
 
 ### 第一步：打开网站
 
-点击上面的 GitHub Pages 在线地址，而不是 GitHub 代码仓库地址。在线地址通常类似：
-
-```text
-https://你的用户名.github.io/ai-engineer-growth-os/
-```
+点击上面的 GitHub Pages 在线地址，而不是 GitHub 代码仓库地址。
 
 ### 第二步：建立学习档案
 
